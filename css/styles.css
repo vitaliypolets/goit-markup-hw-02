@@ -74,6 +74,121 @@ color: #2e2f42;
 
 .main-button {
     cursor: pointer;
+    background-color: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+
+.page-main{
+
+}
+
+.first-main-section {
+    background-color: #2e2f42;
+
+}
+.header-main {
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        color: #fff;
+
+}
+
+.two-main-section {
+
+}
+
+.section-feature {
+
+
+}
+
+.main-item-feature {
+
+}
+
+.article-feature {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.description-feature {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.three-main-section{
+
+}
+.section-ourteam {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.list-ourteam {
+
+}
+.item-ourteam{
+
+}
+
+.article-ourteam {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.description-ourteam {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.four-main-section {
+
+}
+.section-portfolio {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.list-portfolio {
+    
+}
+.item-portfolio {
+
+}
+.article-portfolio {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.description-potfolio {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .footer-logo {
@@ -81,4 +196,11 @@ background-color:#2e2f42 ;
 }
 .footer-logo .logo-nav {
 color: #f4f4fd
+}
+.description-footer {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
