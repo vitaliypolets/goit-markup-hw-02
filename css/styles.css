@@ -82,6 +82,11 @@ color: #2e2f42;
     color: #fff;
 }
 
+.main-button:hover,
+.main-button:focus {
+    background-color: #404BBF
+} 
+
 .page-main{
 
 }
@@ -95,6 +100,7 @@ color: #2e2f42;
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
+        text-align: center;
         color: #fff;
 
 }
@@ -128,20 +134,22 @@ color: #2e2f42;
 }
 
 .three-main-section{
-
+    background-color: #f4f4fd;
 }
 .section-ourteam {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .list-ourteam {
 
 }
 .item-ourteam{
-
+background-color: #FFFFFF;
 }
 
 .article-ourteam {
@@ -165,9 +173,11 @@ color: #2e2f42;
 .section-portfolio {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
+    text-align: center;
     letter-spacing: 0.02em;
-        color: #2e2f42;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .list-portfolio {
